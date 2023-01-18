@@ -1,5 +1,4 @@
- <p>Hi, I'm Suanny 🌸 <br>I'm interested in Programação
-  <p/>
+ <h2>Hi, I'm Suanny 🌸 </h2><br> <p><li>I'm interested in programming  💻 </li><br> <li>I have been learning JS 🧠</li></p>
  
  <div>
    <a href="https://github.com/suannybarbosa">
